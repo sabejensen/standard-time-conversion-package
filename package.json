@@ -1,4 +1,8 @@
 {
     "name": "@seajensen/standard-time-conversion-package",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "description": "Includes a few functions for altering ",
+    "license": "MIT",
+    "repository": "seajensen/standard-time-conversion-package",
+    "main": "index.js"
     }
